@@ -1,0 +1,15 @@
+1.	Buat project java
+	mvn archetype:create -DgroupId=com.p2.jdbc -DartifactId=belajar-jdbc
+	
+2.	Buat folder
+	- latihan
+	- tugas
+	pada belajar-jdbc\src\main\java\com\p2\jdbc
+	
+3.	Buat file Main.java di dalam folder latihan
+
+4.	Jalankan mysql
+
+5.	Tambahkan pom.xml
+
+6.	compile project
